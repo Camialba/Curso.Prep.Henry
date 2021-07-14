@@ -1,0 +1,29 @@
+h1{
+    color: red;
+}
+img {
+    width: 400px; ;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: white;
+    padding: 50px;
+    border: 2px solid black ;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.image-fondo {
+    background-image: url("https://banderasdelmundo.org/wp-content/uploads/2020/08/Bandera-de-Italia-1946-actualidad-scaled.jpg");
+    background-size: cover;
+}
+.box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.divClass {
+    text-align: center;
+}
