@@ -1,0 +1,41 @@
+.image-fondo{
+    background-image: url("https://pm1.narvii.com/6347/9befaf40586c430769e8621fb4b54bbd21877f4b_hq.jpg");
+    background-size: cover;
+    margin: 0px auto;
+}
+#principal {
+    width: 80%;
+    padding: 8px;
+    margin: 0 auto;
+}
+fieldset{
+    margin: 9px;
+    background-color: white;
+}
+legend{
+    border: solid 1px;
+    padding: 5px;
+    font-weight: bold;
+    border-top-left-radius: 20px;
+    background-color: whitesmoke;
+}
+img {
+    width: 130px;
+    margin: 5px;
+    border: dotted 4px plum;
+}
+.carrera {
+    margin: 15px;
+    border: dotted 4px rgba(240, 73, 240, 0.555);
+    background-color: rgb(245, 160, 217);
+    padding: 10px;
+    font-size: 18px;
+}
+#obj {
+    text-align: left;
+}
+#pr {
+    text-align: center;
+    font-size: 22px;
+    font-style: italic;
+}
